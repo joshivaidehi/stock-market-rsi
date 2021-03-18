@@ -2,15 +2,11 @@
 
 RSI (Relative Strength Index) written in Python
 
-![Python RSI Image](https://github.com/mtamer/python-rsi/blob/master/src/images/example.png)
-
 ## About
 
 Relative Strength Index written in Python. The whole point of this application is to be able to come up with a list of as many different types of stocks (stock tickers) that you want to screen and see if it meets the Relative Strength criteria. A combination of the RSI and the 20 and 200 day Moving Average (MA) tend to be strong and popular indicators to determine the future behavior of a stock.
 
 At the end of pulling stock data, a table is shown displaying metrics of the stocks pulled along with a link to view the chart.
-
-![Stock Data Table](https://github.com/mtamer/python-rsi/blob/master/src/images/pulled-data-table.png)
 
 ## To Install
 
