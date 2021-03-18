@@ -2,7 +2,7 @@
 
 RSI (Relative Strength Index) written in Python
 
-![Python RSI Image](https://github.com/mtamer/python-rsi/blob/master/src/images/example.png)
+![Python RSI Image](https://github.com/joshivaidehi/python-rsi/blob/master/src/images/example.png)
 
 ## About
 
