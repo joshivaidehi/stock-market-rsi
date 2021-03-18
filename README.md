@@ -2,7 +2,7 @@
 
 RSI (Relative Strength Index) written in Python
 
-![Python RSI Image](https://github.com/joshivaidehi/python-rsi/blob/master/src/images/example.png)
+![Python RSI Image](https://github.com/mtamer/python-rsi/blob/master/src/images/example.png)
 
 ## About
 
@@ -14,7 +14,7 @@ At the end of pulling stock data, a table is shown displaying metrics of the sto
 
 ## To Install
 
-1. Clone repo: `git clone https://github.com/mtamer/python-rsi.git`
+1. Clone repo: `git clone https://github.com/joshivaidehi/python-rsi.git`
 2. `cd src`
 3. `pip install -r requirements.txt`
 4. Look inside the `main.py` file and put all the stocks you want to monitor in there or inside of `stocks.txt`
