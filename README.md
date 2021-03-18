@@ -19,8 +19,3 @@ At the end of pulling stock data, a table is shown displaying metrics of the sto
 3. `pip install -r requirements.txt`
 4. Look inside the `main.py` file and put all the stocks you want to monitor in there or inside of `stocks.txt`
 5. To run: `python main.py`
-6. Enjoy!
-
-## Disclaimer
-
-This repository is only for educational purposes. The owner and contributors of this repository are not responsible for how you use this code and the gains/losses you accumulate.
